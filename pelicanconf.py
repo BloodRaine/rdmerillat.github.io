@@ -41,10 +41,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Social widget
-SOCIAL = (('linkedin', 'https://www.linkedin.com/in/sumnerevans'),
+SOCIAL = (('linkedin', 'https://www.linkedin.com/in/rdmerillat'),
           ('github', 'https://github.com/bloodraine'),
           ('facebook', 'https://www.facebook.com/robbie.merillat'),
-          ('youtube', 'https://www.youtube.com/channel/UCyrdRO4oJRpszr0ovN1FwBA/'),)
+          ('youtube', 'https://www.youtube.com/channel/UCBr7hAputnyjBbyF9R286yg'),)
 
 MENUITEMS = (('Archives', '/archives.html'),
              ('Categories', '/categories.html'),
