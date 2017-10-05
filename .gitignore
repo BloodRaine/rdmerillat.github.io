@@ -166,4 +166,9 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+#macOS
+*.DS_Store
+
+Makefile
+
 # End of https://www.gitignore.io/api/linux,macos,windows,python
