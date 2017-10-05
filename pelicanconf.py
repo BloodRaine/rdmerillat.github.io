@@ -42,10 +42,8 @@ AUTHOR_FEED_RSS = None
 
 # Social widget
 SOCIAL = (('linkedin', 'https://www.linkedin.com/in/sumnerevans'),
-          ('stack-overflow', 'http://stackoverflow.com/users/2319844/'),
           ('github', 'https://github.com/bloodraine'),
-          ('instagram', 'https://www.instagram.com/sumner.evans/'),
-          ('facebook', 'https://www.facebook.com/sumner.evans98'),
+          ('facebook', 'https://www.facebook.com/robbie.merillat'),
           ('youtube', 'https://www.youtube.com/channel/UCyrdRO4oJRpszr0ovN1FwBA/'),)
 
 MENUITEMS = (('Archives', '/archives.html'),
