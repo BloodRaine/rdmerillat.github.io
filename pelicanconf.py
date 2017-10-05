@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Robinson Merillat'
 SITENAME = 'Robinson Merillat'
-SITEURL = 'http://localhost:8000/output'
+SITEURL = ''
 SITETITLE = 'Robinson Merillat'
 SITESUBTITLE = 'Senior in Computer Science at Colorado School of Mines'
 SITEDESCRIPTION = 'Robinson\'s portfolio, thoughts, and writings'
