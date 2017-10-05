@@ -9,9 +9,7 @@ SITETITLE = 'Robinson Merillat'
 SITESUBTITLE = 'Senior in Computer Science at Colorado School of Mines'
 SITEDESCRIPTION = 'Robinson\'s portfolio, thoughts, and writings'
 SITELOGO = SITEURL + '/images/profile.jpg'
-FAVICON = SITEURL + '/images/favicon.ico'
-
-COPYRIGHT_YEAR = 2017
+#FAVICON = SITEURL + '/images/favicon.ico'
 
 MAIN_MENU = True
 
