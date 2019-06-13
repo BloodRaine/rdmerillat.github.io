@@ -272,14 +272,14 @@
 				});
 
 			// Event: Toggle.
-				$body.on('click', 'a[href="#' + id + '"]', function(event) {
+				// $body.on('click', 'a[href="#' + id + '"]', function(event) {
 
-					event.preventDefault();
-					event.stopPropagation();
+				// 	event.preventDefault();
+				// 	event.stopPropagation();
 
-					config.target.toggleClass(config.visibleClass);
+				// 	config.target.toggleClass(config.visibleClass);
 
-				});
+				// });
 
 		// Window.
 
